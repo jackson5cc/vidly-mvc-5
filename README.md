@@ -2,3 +2,4 @@
 
 A new line
 fixed a bug
+Yet another line
